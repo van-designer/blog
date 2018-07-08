@@ -10,7 +10,7 @@
 				@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
 				* {box-sizing: border-box;}
 				body {margin: 0; padding: 0; font-family: sans-serif;}
-				.header {position: fixed; width: 30%; height: 100%; background: url(bg2.jpg); background-size: cover; background-repeat: no-repeat; margin: 0; padding: 150px 50px; text-align: right;}
+				.header {position: fixed; width: 30%; height: 100%; background: url(https://user-images.githubusercontent.com/40930967/42424619-b7e1acec-8341-11e8-9178-011543f20b70.jpg); background-size: cover; background-repeat: no-repeat; margin: 0; padding: 150px 50px; text-align: right;}
 				.header img {width: 100px; height: 100px; border-radius: 50%}
 				.header h3 { font-family: 'Kaushan Script', cursive; font-size: 40px; color: #fff; }
 				.header ul li { list-style: none; margin-top: 30px;}
@@ -35,7 +35,7 @@
 				/*------------------------------------------------- Smart Fone---------------------------------------------------------------------*/
 				@media (max-width: 768px) {
 					body {margin: 0; padding: 0; font-family: sans-serif;}
-					.header {position: relative; width: 100%; background: url(bg2.jpg); background-size: cover; background-repeat: no-repeat; margin: 0; padding: 50px 20px; text-align: center;}
+					.header {position: relative; width: 100%; background: url(https://user-images.githubusercontent.com/40930967/42424619-b7e1acec-8341-11e8-9178-011543f20b70.jpg); background-size: cover; background-repeat: no-repeat; margin: 0; padding: 50px 20px; text-align: center;}
 					.header img {width: 100px; height: 100px; border-radius: 50%}
 					.header h3 { font-family: 'Kaushan Script', cursive; font-size: 40px; color: #fff; }
 					.header ul li { list-style: none; margin-top: 20px;}
@@ -60,7 +60,7 @@
 </head>
 <body>
 	<div class="header">
-		<img src="logo2.jpg">
+		<img src="https://user-images.githubusercontent.com/40930967/42424625-cda6ff5a-8341-11e8-8d63-bd1983bff051.jpg">
 		<h3>I'm Ngo Thanh Van<br>Lives at Taiwan<br>Have a nice day</h3>
 		<ul>	<li><a href="#">Home</a></li>
 				<li><a href="#">Blog</a></li>
@@ -76,46 +76,46 @@
 			<section class="sec1">
 				<p><b>Làng cổ Cửu Phần</b><br><br>
 				Cái tên Cửu Phần của thị trấn xuất phát từ giai đoạn đầu thời Nhà Thanh, khi ngôi làng miền núi này chỉ có chín hộ dân. Cửu Phần bắt đầu trở nên đông đúc vào cuối đời Nhà Thanh khi việc nghề khai thác vàng trở nên phổ biến ở hòn đảo này, đặc biệt là từ năm 1890 khi công nhân phát hiện ra vụn vàng khi xây dựg tuyến đường sắt Đài Bắc-Cơ Long chạy qua gần khu vực Cửu Phần và năm 1893 khi khu đãi vàng dưới chân các ngọn đồi của Cửu Phần bắt đầu tìm được vàng với sản lượng tới vài kg một ngày.</p>
-				<a href="#"><img src="Jiufen.jpg"></a>
+				<a href="#"><img src="https://user-images.githubusercontent.com/40930967/42424636-15a934bc-8342-11e8-8f05-0c2d870aeb71.jpg"></a>
 			</section>
 			<section class="sec1">
 				<p><b>Lần đầu đi tàu ở Đài Loan</b><br><br>
 				Để sử dụng tàu cao tốc, bạn nên sử dụng bản đồ Đài Loan có danh sách ga tàu bằng giấy phát ở sân bay hoặc các điểm du lịch. Tàu cao tốc THSR liên kết các thành phố ở khu vực bờ Tây Đài Loan, dọc Đài Bắc đến tận thành phố Cao Hùng Đài Loan và qua nhiều thành phố khác. Tàu cao tốc đi nhanh hơn tàu đường sắt truyền thống (300km/h), mức giá vé đương nhiên sẽ cao hơn. Chỉ với bản đồ ga tàu Đài Loan trong tay, bạn hoàn toàn có thể đi du lịch từ phía Bắc đến phía nam chỉ trong một ngày thôi nhé.</p>
-				<a href="#"><img src="img15.jpg"></a>
+				<a href="#"><img src="https://user-images.githubusercontent.com/40930967/42424640-2a7046ec-8342-11e8-832e-1f5b46fe3389.jpg"></a>
 			</section><section class="sec1">
 				<p><b>Công viên Giương Minh Sơn</b><br><br>
 				Ngoài việc tận hưởng thiên nhiên trong lành, rực rỡ sắc hoa, ngắm và ngâm mình trong những dòng suối nước nóng nhiều khoáng chất để tăng cường sức khỏe cũng là hoạt động rất được du khách yêu chuộng mỗi khi có dịp đến tham quan công viên Dương Minh Sơn.Do địa hình đặc trưng của núi lửa, nên Dương Minh Sơn quy tụ đến 13 khu vực địa nhiệt độc đáo, với các lỗ phun khí nóng lộ thiên nồng nặc mùi lưu huỳnh. Đây cũng được xem là 1 trong những điểm tham quan công viên quốc gia rất thú vị.</p>
-				<a href="#"><img src="gms.jpg"></a>
+				<a href="#"><img src="https://user-images.githubusercontent.com/40930967/42424644-49535644-8342-11e8-93e0-a5cf819e01d8.jpg"></a>
 			</section><section class="sec1">
 				<p><b>Chợ đêm Sỹ Lâm</b><br><br>
 				Chợ đêm Sĩ Lâm được chia làm 2 khu vực: khu ẩm thực và khu hàng hóa. Những quầy hàng quanh nhà hát Dương Minh truyền thống và đền thờ Chi Cheng nằm trên đường Tá Nam chuyên bán hàng hóa. Tại đây, bạn có thể tìm mua nhiều mặt hàng đa dạng về chủng loại, mẫu mã như quần áo, mũ nón, giày dép, những sản phẩm và phụ kiện cho tóc với mức giá khá rẻ.Chợ đêm Sĩ Lâm nổi tiếng với hàng loạt các món ăn như: Hot dog nếp kẹp xúc xích, bánh bao Xiao Long Bao, trứng tráng hàu, gà phi lê chiên, trà sữa chân trâu, xúc xích cỡ đại Sĩ Lâm, đậu phụ thối…</p>
-				<a href="#"><img src="sl.jpg"></a>
+				<a href="#"><img src="https://user-images.githubusercontent.com/40930967/42424645-603aea98-8342-11e8-9b86-1ef989c27d90.jpg"></a>
 			</section><section class="sec1">
 				<p><b>Thành phố Đài Bắc</b><br><br>
 				Đài Bắc là trung tâm chính trị, kinh tế, văn hóa của Đài Loan. Đại học Quốc lập Đài Loan nằm tại Đài Bắc, cũng như Bảo tàng Cố cung Quốc lập, vốn là nơi có một trong những bộ sưu tập cổ vật và thư họa Trung Hoa lớn nhất trên thế giới. Đài Bắc được coi là một thành phố toàn cầu, và là một phần của một vùng kỹ nghệ chính. Tàu hỏa, tàu cao tốc, quốc lộ, sân bay và các tuyến xe khách kết nối Đài Bắc với tất cả các nơi khác trên toàn Đài Loan. Nhu cầu hàng không của thành phố được đáp ứng bới hai sân bay - Sân bay Tùng Sơn và Sân bay Đào Viên.</p>
-				<a href="#"><img src="tp.jpg"></a>
+				<a href="#"><img src="https://user-images.githubusercontent.com/40930967/42424656-71024bb4-8342-11e8-8d75-9e72dfc84359.jpg"></a>
 			</section>
 			<section class="sec1">
 				<p><b>Làng cổ Cửu Phần</b><br><br>
 				Cái tên Cửu Phần của thị trấn xuất phát từ giai đoạn đầu thời Nhà Thanh, khi ngôi làng miền núi này chỉ có chín hộ dân. Cửu Phần bắt đầu trở nên đông đúc vào cuối đời Nhà Thanh khi việc nghề khai thác vàng trở nên phổ biến ở hòn đảo này, đặc biệt là từ năm 1890 khi công nhân phát hiện ra vụn vàng khi xây dựg tuyến đường sắt Đài Bắc-Cơ Long chạy qua gần khu vực Cửu Phần và năm 1893 khi khu đãi vàng dưới chân các ngọn đồi của Cửu Phần bắt đầu tìm được vàng với sản lượng tới vài kg một ngày.</p>
-				<a href="#"><img src="Jiufen.jpg"></a>
+				<a href="#"><img src="https://user-images.githubusercontent.com/40930967/42424636-15a934bc-8342-11e8-8f05-0c2d870aeb71.jpg"></a>
 			</section>
 			<section class="sec1">
 				<p><b>Lần đầu đi tàu ở Đài Loan</b><br><br>
 				Để sử dụng tàu cao tốc, bạn nên sử dụng bản đồ Đài Loan có danh sách ga tàu bằng giấy phát ở sân bay hoặc các điểm du lịch. Tàu cao tốc THSR liên kết các thành phố ở khu vực bờ Tây Đài Loan, dọc Đài Bắc đến tận thành phố Cao Hùng Đài Loan và qua nhiều thành phố khác. Tàu cao tốc đi nhanh hơn tàu đường sắt truyền thống (300km/h), mức giá vé đương nhiên sẽ cao hơn. Chỉ với bản đồ ga tàu Đài Loan trong tay, bạn hoàn toàn có thể đi du lịch từ phía Bắc đến phía nam chỉ trong một ngày thôi nhé.</p>
-				<a href="#"><img src="img15.jpg"></a>
+				<a href="#"><img src="https://user-images.githubusercontent.com/40930967/42424640-2a7046ec-8342-11e8-832e-1f5b46fe3389.jpg"></a>
 			</section><section class="sec1">
 				<p><b>Công viên Giương Minh Sơn</b><br><br>
 				Ngoài việc tận hưởng thiên nhiên trong lành, rực rỡ sắc hoa, ngắm và ngâm mình trong những dòng suối nước nóng nhiều khoáng chất để tăng cường sức khỏe cũng là hoạt động rất được du khách yêu chuộng mỗi khi có dịp đến tham quan công viên Dương Minh Sơn.Do địa hình đặc trưng của núi lửa, nên Dương Minh Sơn quy tụ đến 13 khu vực địa nhiệt độc đáo, với các lỗ phun khí nóng lộ thiên nồng nặc mùi lưu huỳnh. Đây cũng được xem là 1 trong những điểm tham quan công viên quốc gia rất thú vị.</p>
-				<a href="#"><img src="gms.jpg"></a>
+				<a href="#"><img src="https://user-images.githubusercontent.com/40930967/42424644-49535644-8342-11e8-93e0-a5cf819e01d8.jpg"></a>
 			</section><section class="sec1">
 				<p><b>Chợ đêm Sỹ Lâm</b><br><br>
 				Chợ đêm Sĩ Lâm được chia làm 2 khu vực: khu ẩm thực và khu hàng hóa. Những quầy hàng quanh nhà hát Dương Minh truyền thống và đền thờ Chi Cheng nằm trên đường Tá Nam chuyên bán hàng hóa. Tại đây, bạn có thể tìm mua nhiều mặt hàng đa dạng về chủng loại, mẫu mã như quần áo, mũ nón, giày dép, những sản phẩm và phụ kiện cho tóc với mức giá khá rẻ.Chợ đêm Sĩ Lâm nổi tiếng với hàng loạt các món ăn như: Hot dog nếp kẹp xúc xích, bánh bao Xiao Long Bao, trứng tráng hàu, gà phi lê chiên, trà sữa chân trâu, xúc xích cỡ đại Sĩ Lâm, đậu phụ thối…</p>
-				<a href="#"><img src="sl.jpg"></a>
+				<a href="#"><img src="https://user-images.githubusercontent.com/40930967/42424645-603aea98-8342-11e8-9b86-1ef989c27d90.jpg"></a>
 			</section><section class="sec1">
 				<p><b>Thành phố Đài Bắc</b><br><br>
 				Đài Bắc là trung tâm chính trị, kinh tế, văn hóa của Đài Loan. Đại học Quốc lập Đài Loan nằm tại Đài Bắc, cũng như Bảo tàng Cố cung Quốc lập, vốn là nơi có một trong những bộ sưu tập cổ vật và thư họa Trung Hoa lớn nhất trên thế giới. Đài Bắc được coi là một thành phố toàn cầu, và là một phần của một vùng kỹ nghệ chính. Tàu hỏa, tàu cao tốc, quốc lộ, sân bay và các tuyến xe khách kết nối Đài Bắc với tất cả các nơi khác trên toàn Đài Loan. Nhu cầu hàng không của thành phố được đáp ứng bới hai sân bay - Sân bay Tùng Sơn và Sân bay Đào Viên.</p>
-				<a href="#"><img src="tp.jpg"></a>
+				<a href="#"><img src="https://user-images.githubusercontent.com/40930967/42424656-71024bb4-8342-11e8-8d75-9e72dfc84359.jpg"></a>
 			</section>
 		</div>						
 	</div>
