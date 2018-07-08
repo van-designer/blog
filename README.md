@@ -1,10 +1,8 @@
 <html lang="vi">
 <head>
-	<title>Ngo Thanh Van</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1, user-scalable=no">
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-	
 			<style type="text/css">
 				@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
 				* {box-sizing: border-box;}
@@ -15,22 +13,17 @@
 				.header ul li { list-style: none; margin-top: 30px;}
 				.header ul li a { font-weight: bold; color: #ff471a; text-decoration: none; text-transform: uppercase; }
 				.header p { margin-top: 200px; font-size: 15px; color: #0099ff; }
-
 				.content {position: relative; width: 70%; float: right; min-height: 100vh; padding: 150px 50px 50px;}
-				.content h1 { width: 960px; height: 150px; margin: 0 auto; text-align: center; font-family: 'Kaushan Script', cursive; color: #66b3ff; }
-
-				
+				.content h1 { width: 960px; height: 150px; margin: 0 auto; text-align: center; font-family: 'Kaushan Script', cursive; color: #66b3ff; }			
 				.content .blog { width: 960px; margin: 0 auto; padding: 50px 0;}
 				.content .blog .baner { width: 960px; height: 100px; line-height: 100px; margin: 50px auto;; background: #f2f2f2; }
 				.content .blog section { width: 100%; height: 220px; margin-top: 20px;border-bottom: 1px solid #d9d9d9; }
 				.content .blog section.sec1 p {width: 600px; height: 200px;float: right;text-align: justify;}
-
 				.footer {position: relative; width: 70%; float: right; height: 150px; padding: 10px 100px; text-align: center;}
 				.footer .pagination { position: absolute; padding: 10px; margin-bottom: 10px; }	 
 				.footer .page {display: inline-block; color: #717171; padding: 0px 5px; margin-right: 1px; border-radius: 3px; border: solid 1 #c0c0c0; background: #e9e9e9; font-size:15px; text-decoration: none;}
 				.footer .page:hover, .page.gradient:hover {background: #595959;box-shadow: inset 0px 0px 5px rgba(0,0,0, .5), 0px 1px 0px rgba(255,255,255, .8); text-shadow: 0px 0px 3px rgba(0,0,0, .5); color: #f0f0f0;}
 				.footer .page.active {border: none; background: #616161; box-shadow: inset 0px 0px 5px rgba(0,0,0, .5), 0px 1px 0px rgba(255,255,255, .8); color: #f0f0f0; text-shadow: 0px 0px 3px rgba(0,0,0, .5);}
-
 				/*------------------------------------------------- Smart Fone---------------------------------------------------------------------*/
 				@media (max-width: 768px) {
 					body {margin: 0; padding: 0; font-family: sans-serif;}
@@ -40,16 +33,13 @@
 					.header ul li { list-style: none; margin-top: 20px;}
 					.header ul li a { font-weight: bold; color: #ff471a; text-decoration: none; text-transform: uppercase; }
 					.header p { margin-top: 50px; font-size: 15px; color: #0099ff;  }
-
 					.content {position: relative; width: 100%; min-height: 100vh; padding: 100px 20px;}
-					.content h1 { width: 100%; text-align: center; font-size: 20px; }
-					
+					.content h1 { width: 100%; text-align: center; font-size: 20px; }					
 					.content .blog { width: 100%; margin: 0; padding: 2px;}
 					.content .blog .baner { width: 100%; height: 100px; line-height: 100px;background: #f2f2f2; font-size: 15px;}
 					.content .blog section { width: 100%; height: 500px; margin-top: 20px;border-bottom: 1px solid #d9d9d9;  text-align: justify;}
 					.content .blog section.sec1 p {margin: 10px auto; width: 100%; height: auto; float: none;}
 					.content .blog section.sec1 img { }
-
 					.footer {position: relative; width: 100%; height: 150px; padding: 10px 10px; }   }
 					.footer .pagination { position: relative; padding: 10px; margin-bottom: 20px; }	 
 					.footer .page {display: inline-block; color: #717171; padding: 0px 5px; margin-right: 1px; border-radius: 3px; border: solid 1 #c0c0c0; background: #e9e9e9; font-size:15px; text-decoration: none;}
@@ -68,8 +58,7 @@
 		<p>Thanks for visiting my blog</p>
 	</div>
 	<div class="content">
-		<h1>Nếu cố gắng để trở nên tốt đẹp hơn<br>Thì mọi thứ xung quanh ta cũng sẽ tốt đẹp hơn.</h1>
-		
+		<h1>Nếu cố gắng để trở nên tốt đẹp hơn<br>Thì mọi thứ xung quanh ta cũng sẽ tốt đẹp hơn.</h1>		
 		<div class="blog">
 			<div class="baner"><h1>Góc nhìn cuộc sống</h1></div>
 			<section class="sec1">
